@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Welcome to Fudan NLP Group\n");
+    printf("Hello from feature branch\n");
 }
